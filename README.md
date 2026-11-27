@@ -1,4 +1,4 @@
-Meera Kulkarni n/
+Meera Kulkarni
 Division 6 
 First Year
 Python Course
